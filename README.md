@@ -1,4 +1,4 @@
-<h1 align="center">👩‍🔬 Hi there, I'm Aline!</h1>
+<h1 align="center"> Hi there, I'm Aline!</h1>
 
 I'm a Master's student in Bioinformatics, passionate about biological data and transforming science into practical knowledge.
 
